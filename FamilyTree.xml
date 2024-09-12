@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="FamilyTree.xslt"?>
+
+<FamilyTree>
+    <Person>
+        <FirstName>Elizabeth</FirstName>
+        <Lastname>II</Lastname>
+        <BirthYear>1926</BirthYear>
+        <DeathYear>2022</DeathYear>
+        <Title>Queen</Title>
+        <Info>Husband: Philip Mountbatten</Info>
+    </Person>
+    <Person>
+        <FirstName>Philip</FirstName>
+        <Lastname>Mountbatten</Lastname>
+        <BirthYear>1921</BirthYear>
+        <DeathYear>2021</DeathYear>
+        <Title>Duke of Edinburgh</Title>
+        <Info>Wife: Queen Elizabeth II</Info>
+    </Person>
+    <Person>
+        <FirstName>Charles</FirstName>
+        <Lastname>III</Lastname>
+        <BirthYear>1948</BirthYear>
+        <DeathYear>-</DeathYear>
+        <Title>King</Title>
+        <Info>Son of Queen Elizabeth II and Philip Mountbatten</Info>
+        <Info>Married to Princess Diana</Info>
+    </Person>
+    <Person>
+        <FirstName>Diana Frances</FirstName>
+        <Lastname>Spencer</Lastname>
+        <BirthYear>1961</BirthYear>
+        <DeathYear>1997</DeathYear>
+        <Title>Princess of Wales</Title>
+        <Info>Married to Charles III</Info>
+    </Person>
+    <Person>
+        <FirstName>William Arthur Philip</FirstName>
+        <Lastname>Louis</Lastname>
+        <BirthYear>1982</BirthYear>
+        <DeathYear>-</DeathYear>
+        <Title>Prince of Wales</Title>
+        <Info>Son of King Charles III and Princess Diana</Info>
+    </Person>
+    <Person>
+        <FirstName>Catherine Elizabeth</FirstName>
+        <Lastname>Middleton</Lastname>
+        <BirthYear>1982</BirthYear>
+        <DeathYear>-</DeathYear>
+        <Title>Princess of Wales</Title>
+        <Info>Married to William Arthur Philip</Info>
+    </Person>
+    <Person>
+        <FirstName>Harry</FirstName>
+        <Lastname>Charles</Lastname>
+        <BirthYear>1984</BirthYear>
+        <DeathYear>-</DeathYear>
+        <Title>Duke of Sussex</Title>
+        <Info>Son of King Charles III and Princess Diana</Info>
+    </Person>
+    <Person>
+        <FirstName>Meghan</FirstName>
+        <Lastname>Markle</Lastname>
+        <BirthYear>1981</BirthYear>
+        <DeathYear>-</DeathYear>
+        <Title>Duchess of Sussex</Title>
+        <Info>Married to Harry Charles</Info>
+    </Person>
+    <Person>
+        <FirstName>George Alexander</FirstName>
+        <Lastname>Louis</Lastname>
+        <BirthYear>2013</BirthYear>
+        <DeathYear>-</DeathYear>
+        <Title>Prince of Wales</Title>
+        <Info>Son of William Arthur Philip and Catherine Elizabeth</Info>
+    </Person>
+    <Person>
+        <FirstName>Charlotte</FirstName>
+        <Lastname>Diana</Lastname>
+        <BirthYear>2015</BirthYear>
+        <DeathYear>-</DeathYear>
+        <Title>Princess</Title>
+        <Info>Daughter of William Arthur Philip and Catherine Elizabeth</Info>
+    </Person>
+    <Person>
+        <FirstName>Louis</FirstName>
+        <Lastname>Charles</Lastname>
+        <BirthYear>2018</BirthYear>
+        <DeathYear>-</DeathYear>
+        <Title>Prince</Title>
+        <Info>Siblings: George Alexander and Charlotte Diana</Info>
+    </Person>
+    <Person>
+        <FirstName>Mark</FirstName>
+        <Lastname>Philips</Lastname>
+        <BirthYear>1948</BirthYear>
+        <DeathYear>-</DeathYear>
+        <Title>Olympic Gold Medal-Winning Horseman</Title>
+    </Person>
+    <Person>
+        <FirstName>Anne</FirstName>
+        <Lastname>Louise</Lastname>
+        <BirthYear>1950</BirthYear>
+        <DeathYear>-</DeathYear>
+        <Title>Princess Royal</Title>
+    </Person>
+    <Person>
+        <FirstName>Timothy</FirstName>
+        <Lastname>Laurence</Lastname>
+        <BirthYear>1955</BirthYear>
+        <DeathYear>-</DeathYear>
+        <Title>Royal Navy</Title>
+    </Person>
+    <Person>
+        <FirstName>Andrew</FirstName>
+        <Lastname>Edward</Lastname>
+        <BirthYear>1960</BirthYear>
+        <DeathYear>-</DeathYear>
+        <Title>Prince</Title>
+    </Person>
+    <Person>
+        <FirstName>Sarah</FirstName>
+        <Lastname>Ferguson</Lastname>
+        <BirthYear>1959</BirthYear>
+        <DeathYear>-</DeathYear>
+        <Title>Author</Title>
+    </Person>
+    <Person>
+        <FirstName>Edward</FirstName>
+        <Lastname>Louis</Lastname>
+        <BirthYear>1964</BirthYear>
+        <DeathYear>-</DeathYear>
+        <Title>Prince</Title>
+    </Person>
+    <Person>
+        <FirstName>Sophie</FirstName>
+        <Lastname>Jones</Lastname>
+        <BirthYear>1965</BirthYear>
+        <DeathYear>-</DeathYear>
+        <Title>Duchess of Edinburgh</Title>
+    </Person>
+    <Person>
+        <FirstName>Edoardo</FirstName>
+        <Lastname>Mozzi</Lastname>
+        <BirthYear>1988</BirthYear>
+        <DeathYear>-</DeathYear>
+        <Title>Husband of Princess Eugenie</Title>
+    </Person>
+    <Person>
+        <FirstName>Jack</FirstName>
+        <Lastname>Brooksbank</Lastname>
+        <BirthYear>1990</BirthYear>
+        <DeathYear>-</DeathYear>
+        <Title>Husband of Princess Eugenie</Title>
+    </Person>
+    <Person>
+        <FirstName>Louise</FirstName>
+        <Lastname>Windsor</Lastname>
+        <BirthYear>2003</BirthYear>
+        <DeathYear>-</DeathYear>
+        <Title>Daughter of Prince Edward</Title>
+    </Person>
+    <Person>
+        <FirstName>James</FirstName>
+        <Lastname>Wessex</Lastname>
+        <BirthYear>2007</BirthYear>
+        <DeathYear>-</DeathYear>
+        <Title>Earl of Wessex</Title>
+    </Person>
+    <Person>
+        <FirstName>Meghan</FirstName>
+        <Lastname>Markle</Lastname>
+        <BirthYear>1981</BirthYear>
+        <DeathYear>-</DeathYear>
+        <Title>Duchess of Sussex</Title>
+        <Info>Married to Prince Harry</Info>
+    </Person>
+    <Person>
+        <FirstName>Archie</FirstName>
+        <Lastname>Mozzi</Lastname>
+        <BirthYear>2019</BirthYear>
+        <DeathYear>-</DeathYear>
+        <Title>Son of Prince Harry and Meghan Markle</Title>
+    </Person>
+    <Person>
+        <FirstName>Lilibet</FirstName>
+        <Lastname>Windsor</Lastname>
+        <BirthYear>2021</BirthYear>
+        <DeathYear>-</DeathYear>
+        <Title>Princess</Title>
+        <Info>Daughter of Prince Harry and Meghan Markle</Info>
+    </Person>
+</FamilyTree>
